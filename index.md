@@ -1,8 +1,5 @@
 ---
-sidebar: false
 ---
-
-# EU
 
 <style media="screen">
   figure img {
