@@ -1,0 +1,5 @@
+timezone: Europe/Rome
+baseurl: /eu
+permalink: pretty
+repository: movimento5stelle/eu
+remote_theme: giovian/io@main
