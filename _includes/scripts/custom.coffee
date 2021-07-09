@@ -1,12 +1,15 @@
+notification 'Load feed'
+
 get_xml = $.ajax {
   url: 'https://www.movimento5stelle.eu/feed/'
   dataType: "xml"
 }
 
 get_xml.fail (request, status, error) ->
-  notification "Get xml #{status}, #{error}", 'red'
+  notification "Feed #{status}, #{error}", 'red'
 
 get_xml.done (xml) ->
+  notification 'Feed loaded', 'green'
   $xml = $(xml)
   channel = $xml.find('channel')
   # Get lastBuildDate
