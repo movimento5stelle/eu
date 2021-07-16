@@ -1,22 +1,11 @@
 ---
+sidebar: [ items ]
 ---
-
-<style media="screen">
-  figure img {
-    max-width: 20em;
-    height: auto;
-  }
-  #pubDate {
-    text-transform: uppercase;
-  }
-</style>
-
-<template id="item">
+<template id=item>
   <article>
-    <h3><a href="" id="link"></a></h3>
-    <i id=pubDate></i>
+    <h2 id=title><a href="" id=link></a></h2>
+    <span id=category></span>
+    <span id=pubDate></span>
     <div id=description></div>
   </article>
 </template>
-
-<p id=updated>Updated: </p>
