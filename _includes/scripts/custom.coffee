@@ -3,6 +3,7 @@ notification 'Feed loading'
 get_xml = $.ajax {
   url: 'https://www.movimento5stelle.eu/feed/'
   dataType: "xml"
+  cache: false
 }
 
 get_xml.fail (request, status, error) ->
