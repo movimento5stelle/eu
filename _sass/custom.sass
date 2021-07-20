@@ -1,12 +1,17 @@
-figure img
-  max-width: 20em
-  height: auto
+figure
+  margin-left: 0
+  margin-right: 0
+  img
+    max-width: 100%
+    height: auto
+    @extend .rounded
 
 article:not(:first-of-type)
   @extend .border-t
   padding: 1em 0
 
 #item-list li
+  line-height: normal
   margin-bottom: 1em
 
 #pubDate, #category
