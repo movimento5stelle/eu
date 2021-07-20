@@ -1,5 +1,4 @@
 check = ->
-  console.log new Date()
   notification 'Feed loading'
 
   get_xml = $.ajax {
@@ -22,9 +21,17 @@ check = ->
     channel = $xml.find('channel')
     # Get lastBuildDate
     lastBuildDate = channel.find('lastBuildDate').text()
+    # Check new and update favicon
+    favicon = $('link[rel=icon]')
+    if lastBuildDate != storage.get 'lastBuildDate'
+      storage.set 'lastBuildDate', lastBuildDate
+      favicon.attr 'href', "{{ '/assets/images/green.ico' | absolute_url }}"
+    else
+      favicon.attr 'href', "{{ '/assets/images/favicon.ico' | absolute_url }}"
     # Create span element
     data = $('<span/>', {
       datetime: lastBuildDate
+      title: lastBuildDate
       'original-text': 'Updated'
       embed: true
     })
@@ -59,7 +66,7 @@ check = ->
       $('section').append template
     return
 
-  # Repeat in ten minutes
-  setTimeout check, 10 * 60 * 1000
+  # Repeat in five minutes
+  setTimeout check, 5 * 60 * 1000
 
 check()
