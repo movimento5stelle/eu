@@ -23,11 +23,12 @@ check = ->
     lastBuildDate = channel.find('lastBuildDate').text()
     # Check new and update favicon
     favicon = $('link[rel=icon]')
-    if lastBuildDate != storage.get 'lastBuildDate'
-      storage.set 'lastBuildDate', lastBuildDate
-      favicon.attr 'href', "{{ '/assets/images/green.ico' | absolute_url }}"
+    first_title = $($xml.find('item').get(0)).find('title').text()
+    if first_title != storage.get 'first_title'
+      storage.set 'first_title', first_title
+      favicon.attr 'href', "{{ '/assets/images/favicon-color.ico' | absolute_url }}"
     else
-      favicon.attr 'href', "{{ '/assets/images/favicon.ico' | absolute_url }}"
+      if focus then favicon.attr 'href', "{{ '/assets/images/favicon.ico' | absolute_url }}"
     # Create span element
     data = $('<span/>', {
       datetime: lastBuildDate
@@ -49,7 +50,6 @@ check = ->
       template.find('#link').text title
       template.find('#link').attr 'href', item.find('link').text()
       template.find('#title').attr 'id', "item_#{i}"
-      # template.find('#title').attr 'id', (count, id) -> "#{id} item_#{i}"
       $('#item-list').append $('<li/>').append $('<a/>', {text: title, href: "#item_#{i}"})
       # Get pubDate and insert formatted date
       data = new Date(item.find('pubDate').text())
