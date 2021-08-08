@@ -44,29 +44,40 @@ check = ->
       # Get item
       item = $ e
       # Get template
-      template = $ $("#item").clone().prop "content"
+      article = $ $("#item").clone().prop "content"
       # Insert data
       title = item.find('title').text()
-      template.find('#link').text title
-      template.find('#link').attr 'href', item.find('link').text()
-      template.find('#title').attr 'id', "item_#{i}"
+      article.find('#link').text title
+      article.find('#link').attr 'href', item.find('link').text()
+      article.find('#title').attr 'id', "item_#{i}"
+      article.find('article').attr 'item', "item_#{i}"
       $('#item-list').append $('<li/>').append $('<a/>', {text: title, href: "#item_#{i}"})
       # Get pubDate and insert formatted date
       data = new Date(item.find('pubDate').text())
-      template.find('#pubDate').text data.toLocaleDateString("it-IT",{
+      article.find('#pubDate').text data.toLocaleDateString("it-IT",{
         weekday: "long"
-        day: "2-digit"
+        day: "numeric"
         month: "long"
       }) + ' ' + data.toTimeString().slice 0, 5
       # Parse description (content:encoded)
-      template.find('#description').html $.parseHTML item.find('content\\:encoded').text()
+      article.find('#description').html $.parseHTML item.find('content\\:encoded').text()
       # Map categories and join array
-      template.find('#category').html item.find('category').map( -> $(@).text()).get().join(', ')
+      article.find('#category').html item.find('category').map( -> $(@).text()).get().join(', ')
       # Append article
-      $('section').append template
-    return
+      $('section').append article
+      return # end loop items
+    observe {
+      in:
+        element: 'article'
+        attribute: 'item'
+      out:
+        element: '#item-list a'
+        attribute: 'href'
+    }, {rootMargin: "-100% 0% 0% 0%"}
+    return # end get_xml.done
 
-  # Repeat in five minutes
-  setTimeout check, 5 * 60 * 1000
+  # Repeat in one minute
+  setTimeout check, 1 * 60 * 1000
+  return # end check()
 
 check()

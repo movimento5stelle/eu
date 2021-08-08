@@ -4,17 +4,30 @@ figure
   img, iframe
     max-width: 100%
     height: auto
-    filter: brightness(60%) contrast(140%)
+    filter: brightness(70%) contrast(120%)
+    mix-blend-mode: difference
     @extend .rounded
 
 article:not(:first-of-type)
   @extend .border-t
   padding: 1em 0
+  *:not(h2) a
+    color: var(--fg-secondary)
+    text-decoration: underline
+    &:hover
+      color: var(--link)
 
 #item-list li
   line-height: normal
   margin-bottom: 1em
-  padding-left: .35em
+  a
+    color: var(--fg-secondary)
+    &:hover
+      color: var(--link)
+    &.inview
+      color: var(--link)
+      &:hover
+        color: var(--fg-secondary)
 
 #pubDate, #category
   @extend .fg-secondary
