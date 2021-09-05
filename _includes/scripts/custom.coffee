@@ -66,7 +66,7 @@ check = ->
       # Append article
       $('section').append article
       return # end loop items
-    observe {
+    inview {
       in:
         element: 'article'
         attribute: 'item'

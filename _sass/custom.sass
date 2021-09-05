@@ -1,6 +1,7 @@
 figure
   margin-left: 0
   margin-right: 0
+#description
   img, iframe
     max-width: 100%
     height: auto
@@ -9,7 +10,7 @@ figure
     @extend .rounded
 
 article:not(:first-of-type)
-  @extend .border-t
+  @extend .border-top
   padding: 1em 0
   *:not(h2) a
     color: var(--fg-secondary)
