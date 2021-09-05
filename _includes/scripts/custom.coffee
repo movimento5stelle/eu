@@ -45,20 +45,28 @@ check = ->
       item = $ e
       # Get template
       article = $ $("#item").clone().prop "content"
+      # Get pubDate and formatted date
+      data = new Date(item.find('pubDate').text())
+      data_formatted = data.toLocaleDateString("it-IT",{
+        weekday: "long"
+        day: "numeric"
+        month: "long"
+      }) + ' ' + data.toTimeString().slice 0, 5
       # Insert data
       title = item.find('title').text()
       article.find('#link').text title
       article.find('#link').attr 'href', item.find('link').text()
       article.find('#title').attr 'id', "item_#{i}"
       article.find('article').attr 'item', "item_#{i}"
-      $('#item-list').append $('<li/>').append $('<a/>', {text: title, href: "#item_#{i}"})
-      # Get pubDate and insert formatted date
+      # Inject sidebar link
+      $('#item-list').append $('<li/>').append $('<a/>', {
+        text: title
+        title: data_formatted
+        href: "#item_#{i}"
+      })
+      # Insert formatted date
       data = new Date(item.find('pubDate').text())
-      article.find('#pubDate').text data.toLocaleDateString("it-IT",{
-        weekday: "long"
-        day: "numeric"
-        month: "long"
-      }) + ' ' + data.toTimeString().slice 0, 5
+      article.find('#pubDate').text data_formatted
       # Parse description (content:encoded)
       article.find('#description').html $.parseHTML item.find('content\\:encoded').text()
       # Map categories and join array
