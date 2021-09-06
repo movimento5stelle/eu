@@ -1,5 +1,5 @@
 ---
-sidebar: [ items ]
+sidebar: [ sidebar ]
 ---
 <template id=item>
   <article>
