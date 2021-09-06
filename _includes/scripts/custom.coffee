@@ -1,15 +1,26 @@
 check = ->
-  notification 'Feed loading'
 
-  get_xml = $.ajax {
+  # Repeat in one minute
+  setTimeout check, 1 * 60 * 1000
+
+  # Get feed
+  notification 'Feed loading'
+  get_xml = $.get {
     url: 'https://www.movimento5stelle.eu/feed/'
     dataType: "xml"
-    cache: false
   }
 
-  get_xml.fail (request, status, error) ->
-    notification "Feed #{status}, #{error}", 'red'
+  # When done start inview observer
+  get_xml.then -> inview {
+    in:
+      element: 'article'
+      attribute: 'item'
+    out:
+      element: '#item-list a'
+      attribute: 'href'
+  }, {rootMargin: "-100% 0% 0% 0%"}
 
+  # Populate DOM
   get_xml.done (xml) ->
     notification 'Feed loaded', 'green'
     # Reset DOM
@@ -17,13 +28,12 @@ check = ->
     $('#item-list').empty()
     $('nav ul').empty()
     # Parse data
-    $xml = $(xml)
-    channel = $xml.find('channel')
+    channel = $(xml).find('channel')
     # Get lastBuildDate
     lastBuildDate = channel.find('lastBuildDate').text()
     # Check new and update favicon
     favicon = $('link[rel=icon]')
-    first_title = $($xml.find('item').get(0)).find('title').text()
+    first_title = $(channel.find('item').get(0)).find('title').text()
     if first_title != storage.get 'first_title'
       storage.set 'first_title', first_title
       favicon.attr 'href', "{{ '/assets/images/favicon-color.ico' | absolute_url }}"
@@ -40,7 +50,7 @@ check = ->
     dateTime data
     $('nav ul').append $('<li/>').append data
     # Loop items
-    $xml.find('item').each (i, e) ->
+    channel.find('item').each (i, e) ->
       # Get item
       item = $ e
       # Get template
@@ -74,18 +84,9 @@ check = ->
       # Append article
       $('section').append article
       return # end loop items
-    inview {
-      in:
-        element: 'article'
-        attribute: 'item'
-      out:
-        element: '#item-list a'
-        attribute: 'href'
-    }, {rootMargin: "-100% 0% 0% 0%"}
+
     return # end get_xml.done
 
-  # Repeat in one minute
-  setTimeout check, 1 * 60 * 1000
   return # end check()
 
 check()
