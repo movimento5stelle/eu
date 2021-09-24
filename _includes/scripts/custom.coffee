@@ -34,13 +34,11 @@ check = ->
     # Check new and update favicon
     favicon = $('link[rel=icon]')
     first_title = $(channel.find('item').get(0)).find('title').text()
-    console.log first_title
-    if first_title != decodeURI storage.get 'first_title'
-      storage.set 'first_title', encodeURI first_title
+    if encodeURI(first_title) != storage.get 'first_title'
+      storage.set('first_title', encodeURI first_title)
       favicon.attr 'href', "{{ '/assets/images/favicon-color.ico' | absolute_url }}"
     else
       if focus then favicon.attr 'href', "{{ '/assets/images/favicon.ico' | absolute_url }}"
-    console.log 'gone'
     # Create span element
     data = $('<span/>', {
       datetime: lastBuildDate
