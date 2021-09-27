@@ -9,9 +9,10 @@ figure
     mix-blend-mode: difference
     @extend .rounded
 
-article:not(:first-of-type)
-  @extend .border-top
-  padding: 1em 0
+article
+  &:not(:first-of-type)
+    @extend .border-top
+    padding: 1em 0
   *:not(h2) a
     color: var(--fg-secondary) !important
     text-decoration: underline
