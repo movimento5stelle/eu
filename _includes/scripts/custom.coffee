@@ -1,3 +1,5 @@
+update() # Check repository updates and refresh
+
 check = ->
 
   # Repeat in one minute
