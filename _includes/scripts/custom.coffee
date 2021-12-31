@@ -1,5 +1,3 @@
-update() # Check repository updates and refresh
-
 check = ->
 
   # Repeat in one minute
@@ -49,7 +47,7 @@ check = ->
       embed: true
     })
     # Activate and append datetime
-    dateTime data
+    datetime data
     $('nav ul').append $('<li/>').append data
     # Loop items
     channel.find('item').each (i, e) ->
