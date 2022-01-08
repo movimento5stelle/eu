@@ -1,5 +1,16 @@
 timezone: Europe/Rome
 baseurl: /eu
 permalink: pretty
-repository: movimento5stelle/eu
-remote_theme: giovian/io@main
+remote_theme: giovian/ui@main
+favicon:
+  ico: /assets/images/favicon.ico
+
+nav: true
+footer: true
+
+# DEFAULTS
+defaults:
+  - scope:
+      path: assets/help.md
+    values:
+      sidebar: []

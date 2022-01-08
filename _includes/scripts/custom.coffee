@@ -4,7 +4,6 @@ check = ->
   setTimeout check, 1 * 60 * 1000
 
   # Get feed
-  notification 'Feed loading'
   get_xml = $.get {
     url: 'https://www.movimento5stelle.eu/feed/'
     dataType: "xml"
@@ -18,11 +17,12 @@ check = ->
     out:
       element: '#item-list a'
       attribute: 'href'
-  }, {rootMargin: "-100% 0% 0% 0%"}
+    options:
+      rootMargin: "-100% 0% 0% 0%"
+    }
 
   # Populate DOM
   get_xml.done (xml) ->
-    notification 'Feed loaded', 'green'
     # Reset DOM
     $('article').remove()
     $('#item-list').empty()
@@ -36,9 +36,9 @@ check = ->
     first_title = $(channel.find('item').get(0)).find('title').text()
     if first_title != storage.get 'first_title'
       storage.set 'first_title', first_title
-      favicon.attr 'href', "{{ '/assets/images/favicon-color.ico' | absolute_url }}"
+      favicon.attr 'href', "{{ 'assets/images/favicon-color.ico' | absolute_url }}"
     else
-      if focus then favicon.attr 'href', "{{ '/assets/images/favicon.ico' | absolute_url }}"
+      if focus then favicon.attr 'href', "{{ 'assets/images/favicon.ico' | absolute_url }}"
     # Create span element
     data = $('<span/>', {
       datetime: lastBuildDate
