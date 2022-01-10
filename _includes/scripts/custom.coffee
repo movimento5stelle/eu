@@ -89,4 +89,4 @@ check = ->
 
   return # end check()
 
-check()
+if $('body').attr('page-title') is '' then check()
