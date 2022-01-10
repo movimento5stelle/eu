@@ -1,5 +1,6 @@
 ---
-sidebar: [ sidebar ]
+sidebar: [ sidebar, meta ]
+footer: false
 ---
 <template id=item>
   <article>
