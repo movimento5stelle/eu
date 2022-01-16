@@ -6,7 +6,7 @@ favicon:
   ico: /assets/images/favicon.ico
 
 nav: true
-footer: true
+navigation: []
 
 # DEFAULTS
 defaults:
