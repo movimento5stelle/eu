@@ -79,6 +79,13 @@ check = ->
       article.find('#pubDate').text data_formatted
       # Parse description (content:encoded)
       article.find('#description').html $.parseHTML item.find('content\\:encoded').text()
+      # Replace iframes with a link
+      article.find('iframe').each ->
+        $(@).after $ '<a/>',
+          href: $(@).attr('src')
+          text: $(@).attr('title')
+        $(@).remove()
+        return
       # Map categories and join array
       article.find('#category').html item.find('category').map( -> $(@).text()).get().join(', ')
       # Append article
