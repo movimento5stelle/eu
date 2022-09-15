@@ -25,8 +25,7 @@ check = ->
   get_xml.done (xml) ->
     # Reset DOM
     $('article').remove()
-    $('#item-list').empty()
-    $('nav ul').empty()
+    $('#item-list, nav ul').empty()
     # Parse data
     channel = $(xml).find('channel')
     # Get lastBuildDate
@@ -89,7 +88,7 @@ check = ->
       # Map categories and join array
       article.find('#category').html item.find('category').map( -> $(@).text()).get().join(', ')
       # Append article
-      $('section').append article
+      $('main > .wrapper > section').append article
       return # end loop items
 
     return # end get_xml.done
