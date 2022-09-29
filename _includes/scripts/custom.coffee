@@ -18,7 +18,7 @@ check = ->
       element: '#item-list a'
       attribute: 'href'
     options:
-      rootMargin: "-100% 0% 0% 0%"
+      rootMargin: "-30% 0% 0% 0%"
     }
 
   # Populate DOM
