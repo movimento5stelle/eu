@@ -5,7 +5,7 @@ check = ->
 
   # Get feed
   get_xml = $.get {
-    url: 'https://www.movimento5stelle.eu/feed/'
+    url: 'https://afternoon-hollows-35729.herokuapp.com/https://www.movimento5stelle.eu/feed/'
     dataType: "xml"
   }
 
