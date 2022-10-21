@@ -85,6 +85,8 @@ check = ->
           text: $(@).attr('title')
         $(@).remove()
         return
+      # Remove video .mp4
+      article.find('video[src$=".mp4"]').remove()
       # Map categories and join array
       article.find('#category').html item.find('category').map( -> $(@).text()).get().join(', ')
       # Append article
