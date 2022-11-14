@@ -5,7 +5,7 @@ check = ->
 
   # Get feed
   get_xml = $.get {
-    url: 'https://afternoon-hollows-35729.herokuapp.com/https://www.movimento5stelle.eu/feed/'
+    url: '{{ "assets/m5sfeed.xml" | absolute_url }}'
     dataType: "xml"
   }
 
