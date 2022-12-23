@@ -12,7 +12,7 @@
 	<atom:link href="https://www.movimento5stelle.eu/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.movimento5stelle.eu</link>
 	<description></description>
-	<lastBuildDate>Thu, 22 Dec 2022 21:28:54 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 23 Dec 2022 15:05:12 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -406,7 +406,7 @@
 
 
 
-<li>Il proponente potrà avanzare una sola proposta di autocandidatura, in ogni caso si riterrà valida solo l’ultima in ordine temporale che, di conseguenza, rende nulle le precedenti. (accedendo al proprio profilo personale potrà annullare la candidatura e proporne un’altra entro i termini previsti – <strong>ore 16.00 del 23.12.2022</strong>)</li>
+<li>Il proponente potrà avanzare una sola proposta di autocandidatura, in ogni caso si riterrà valida solo l’ultima in ordine temporale che, di conseguenza, rende nulle le precedenti. (accedendo al proprio profilo personale potrà annullare la candidatura e proporne un’altra entro i termini previsti –&nbsp;<strong>ore 16.00 del 23.12.2022</strong>)</li>
 </ul>
 
 
@@ -460,7 +460,7 @@
 
 
 <div class="is-layout-flex wp-block-buttons">
-<div class="wp-block-button aligncenter has-custom-width wp-block-button__width-25 has-custom-font-size is-style-fill has-medium-font-size"><a class="wp-block-button__link has-vivid-red-background-color has-background wp-element-button" href="https://portale.movimento5stelle.eu/candidatura-regionali-lazio-e-lombardia" target="_blank" rel="noreferrer noopener"><strong>CANDIDATI ORA</strong></a></div>
+<div class="wp-block-button aligncenter has-custom-width wp-block-button__width-25 has-custom-font-size is-style-fill has-medium-font-size"><a class="wp-block-button__link has-vivid-red-background-color has-background wp-element-button"><strong>CANDIDATURE CHIUSE</strong></a></div>
 </div>
 
 
