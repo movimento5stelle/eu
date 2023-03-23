@@ -12,7 +12,7 @@
 	<atom:link href="https://www.movimento5stelle.eu/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.movimento5stelle.eu</link>
 	<description></description>
-	<lastBuildDate>Wed, 22 Mar 2023 14:28:59 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 22 Mar 2023 19:44:42 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -249,7 +249,11 @@
 
 
 <ul>
-<li><strong><a href="https://drive.google.com/drive/folders/1YIz3ncr4jPcexYtCej-E6PTzt5roCLri?usp=share_link" target="_blank" rel="noreferrer noopener">SCARICA IL KIT DEI DOCUMENTI</a></strong></li>
+<li><strong><a rel="noreferrer noopener" href="https://drive.google.com/drive/folders/1YIz3ncr4jPcexYtCej-E6PTzt5roCLri?usp=share_link" target="_blank">SCARICA IL KIT DEI DOCUMENTI</a></strong></li>
+
+
+
+<li><strong><a href="https://drive.google.com/drive/folders/1ew6M8WvsiF74aFdvMexpdjyaoV45WWDo" data-type="URL" data-id="https://drive.google.com/drive/folders/1ew6M8WvsiF74aFdvMexpdjyaoV45WWDo" target="_blank" rel="noreferrer noopener">KIT GRAFICO</a></strong></li>
 </ul>
 ]]></content:encoded>
 					
