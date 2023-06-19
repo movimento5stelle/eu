@@ -12,7 +12,7 @@
 	<atom:link href="https://www.movimento5stelle.eu/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.movimento5stelle.eu</link>
 	<description></description>
-	<lastBuildDate>Sun, 18 Jun 2023 12:55:45 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 19 Jun 2023 06:21:22 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -77,7 +77,7 @@
 
 
 <ul>
-<li>Per proporre la propria autocandidatura ciascun iscritto dovrà accedere a questo <a href="https://portale.movimento5stelle.eu/candidatura-regionali-trentino-alto-adige" data-type="URL" data-id="https://portale.movimento5stelle.eu/candidatura-regionali-trentino-alto-adige">LINK</a> (o cliccare sulla voce di menu “candidature“) e accedere al proprio profilo personale;</li>
+<li>Per proporre la propria autocandidatura ciascun iscritto dovrà accedere a questo&nbsp;<a href="https://portale.movimento5stelle.eu/candidatura-regionali-trentino-alto-adige" data-type="URL" data-id="https://portale.movimento5stelle.eu/candidatura-regionali-trentino-alto-adige">LINK</a>&nbsp;(o cliccare sulla voce di menu “candidature“) e accedere al proprio profilo personale;</li>
 
 
 
@@ -178,11 +178,13 @@
 
 
 
-<p>     Non potranno, inoltre, avanzare la propria candidatura coloro che abbiano tenuto condotte in contrasto con i principi, valori, programmi, nonché con l’immagine del MoVimento 5 Stelle, del suo simbolo e del suo Garante o siano stati parte ricorrente e/o parte attrice e/o parte convenuta e/o resistente in giudizi promossi da o avverso il MoVimento 5 Stelle e/o il suo Garante.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; Non potranno, inoltre, avanzare la propria candidatura coloro che abbiano tenuto condotte in contrasto con i principi, valori, programmi, nonché con l’immagine del MoVimento 5 Stelle, del suo simbolo e del suo Garante o siano stati parte ricorrente e/o parte attrice e/o parte convenuta e/o resistente in giudizi promossi da o avverso il MoVimento 5 Stelle e/o il suo Garante.</p>
 
 
 
-<p class="has-text-align-center"><strong><a href="https://portale.movimento5stelle.eu/candidatura-regionali-trentino-alto-adige">Candidati ora</a></strong></p>
+<div class="is-content-justification-center is-layout-flex wp-container-1 wp-block-buttons">
+<div class="wp-block-button"><a class="wp-block-button__link has-vivid-red-background-color has-background wp-element-button" href="https://portale.movimento5stelle.eu/candidatura-regionali-trentino-alto-adige"><strong>CANDIDATI ORA</strong></a></div>
+</div>
 ]]></content:encoded>
 					
 		
