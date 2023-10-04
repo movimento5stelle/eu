@@ -12,7 +12,7 @@
 	<atom:link href="https://www.movimento5stelle.eu/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.movimento5stelle.eu</link>
 	<description></description>
-	<lastBuildDate>Tue, 03 Oct 2023 14:49:52 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 04 Oct 2023 15:59:12 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,12 +28,13 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>SalarioMinimoSubito, l’8 ottobre il Firma Day!</title>
+		<title>#SalarioMinimoSubito, l’8 ottobre il Firma Day!</title>
 		<link>https://www.movimento5stelle.eu/salariominimosubito-l8-ottobre-il-firma-day/</link>
 		
 		<dc:creator><![CDATA[M5S]]></dc:creator>
 		<pubDate>Tue, 03 Oct 2023 14:41:14 +0000</pubDate>
 				<category><![CDATA[Eventi]]></category>
+		<category><![CDATA[#SalarioMinimoSubito]]></category>
 		<category><![CDATA[Firma day]]></category>
 		<category><![CDATA[salario minimo]]></category>
 		<guid isPermaLink="false">https://www.movimento5stelle.eu/?p=25265</guid>
