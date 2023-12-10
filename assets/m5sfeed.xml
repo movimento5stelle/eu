@@ -12,7 +12,7 @@
 	<atom:link href="https://www.movimento5stelle.eu/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.movimento5stelle.eu</link>
 	<description></description>
-	<lastBuildDate>Sat, 09 Dec 2023 14:22:56 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 09 Dec 2023 22:46:37 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -290,10 +290,6 @@
 
 
 
-<li><strong>Comitato città 2050 e Pnrr </strong>(sicurezza, Pnrr, casa)</li>
-
-
-
 <li><strong>Comitato per la legalità e la giustizia</strong></li>
 
 
@@ -302,15 +298,19 @@
 
 
 
-<li><strong>Comitato per l’Istruzione, l’Università, la Cultura e l’Informazione</strong> (Scuola, università, ricerca, patrimonio culturale)</li>
+<li><strong>Comitato per l’istruzione, l’università, la cultura e l’informazione</strong> </li>
 
 
 
-<li><strong>Comitato per la transizione ecologica e digitale</strong> (aerospazio, innovazione tecnologica, mobilità sostenibile, energia)</li>
+<li><strong>Comitato per la transizione ecologica e digitale</strong> </li>
 
 
 
-<li><strong>Comitato Pianeta 2050</strong> (Politiche alimentari, dissesto idrogeologico, protezione animali)</li>
+<li><strong>Comitato &#8220;Città 2050&#8221; e Pnrr </strong>(sicurezza e politiche per la casa)</li>
+
+
+
+<li><strong>Comitato &#8220;Pianeta 2050</strong>&#8221; (politiche alimentari, dissesto idrogeologico, protezione animali)</li>
 
 
 
