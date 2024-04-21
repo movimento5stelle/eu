@@ -12,7 +12,7 @@
 	<atom:link href="https://www.movimento5stelle.eu/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.movimento5stelle.eu</link>
 	<description></description>
-	<lastBuildDate>Fri, 19 Apr 2024 22:25:29 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 20 Apr 2024 20:55:47 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,8 @@
 		
 		<dc:creator><![CDATA[Vito Crimi]]></dc:creator>
 		<pubDate>Thu, 18 Apr 2024 21:56:47 +0000</pubDate>
-				<category><![CDATA[MoVimento]]></category>
+				<category><![CDATA[Votazioni]]></category>
+		<category><![CDATA[Elezioni europee]]></category>
 		<guid isPermaLink="false">https://www.movimento5stelle.eu/?p=29265</guid>
 
 					<description><![CDATA[Si è concluso alle ore 22 di oggi 18 aprile 2024 il primo turno di votazione delle proposte di autocandidatura su base regionale. All&#8217;esito delle votazioni risultano ammessi al secondo turno i candidati di cui all&#8217;elenco che potete scaricare a questo link ELENCO DEI CANDIDATI AMMESSI AL SECONDO TURNO DEL 22 APRILE 2024 (agg. 20/4) [&#8230;]]]></description>
@@ -432,7 +433,7 @@
 
 
 
-<p><strong>======</strong></p>
+<p class="has-text-align-center"><strong>======</strong></p>
 
 
 
