@@ -12,7 +12,7 @@
 	<atom:link href="https://www.movimento5stelle.eu/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.movimento5stelle.eu</link>
 	<description></description>
-	<lastBuildDate>Fri, 17 May 2024 14:43:33 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 19 May 2024 15:56:24 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -130,7 +130,11 @@
 
 
 
-<p><a href="https://rdl.movimento5stelleabruzzo.it" data-type="URL" data-id="https://rdl.movimento5stelleabruzzo.it" target="_blank" rel="noreferrer noopener">Abruzzo</a></p>
+<p><a rel="noreferrer noopener" href="https://rdl.movimento5stelleabruzzo.it" data-type="URL" data-id="https://rdl.movimento5stelleabruzzo.it" target="_blank">Abruzzo</a></p>
+
+
+
+<p><a href="https://forms.gle/YX2UsiTXL2yFc9or6">Basilicata</a></p>
 
 
 
