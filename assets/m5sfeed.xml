@@ -12,7 +12,7 @@
 	<atom:link href="https://www.movimento5stelle.eu/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.movimento5stelle.eu</link>
 	<description></description>
-	<lastBuildDate>Thu, 07 Nov 2024 12:00:26 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 07 Nov 2024 13:53:39 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -71,14 +71,6 @@
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <iframe title="6 novembre 2024" width="1200" height="675" src="https://www.youtube.com/embed/76dU2Hd8soY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
-
-
-
-<figure class="wp-block-video"></figure>
-
-
-
-<div data-wp-interactive="core/file" class="wp-block-file"><object data-wp-bind--hidden="!state.hasPdfPreview"  class="wp-block-file__embed" data="https://www.movimento5stelle.eu/wp-content/uploads/2024/11/dlg_00167_04-11-2024.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Incorporamento di Scarica la delibera - dlg_00167_04-11-2024."></object><a id="wp-block-file--media-c28b06ce-48d0-4efd-9837-5db4d8ea7075" href="https://www.movimento5stelle.eu/wp-content/uploads/2024/11/dlg_00167_04-11-2024.pdf">Scarica la delibera &#8211; dlg_00167_04-11-2024</a><a href="https://www.movimento5stelle.eu/wp-content/uploads/2024/11/dlg_00167_04-11-2024.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-c28b06ce-48d0-4efd-9837-5db4d8ea7075">Download</a></div>
 ]]></content:encoded>
 					
 		
