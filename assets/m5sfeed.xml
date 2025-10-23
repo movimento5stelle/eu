@@ -12,7 +12,7 @@
 	<atom:link href="https://www.movimento5stelle.eu/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.movimento5stelle.eu</link>
 	<description></description>
-	<lastBuildDate>Thu, 23 Oct 2025 09:04:26 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 23 Oct 2025 17:09:22 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -104,11 +104,15 @@
 
 
 
-<p>Ecco l’elenco, purtroppo lungo:</p>
+<p>Ecco l’elenco, purtroppo&nbsp;lungo:</p>
 
 
 
 <div data-wp-interactive="core/file" class="wp-block-file"><object data-wp-bind--hidden="!state.hasPdfPreview"  class="wp-block-file__embed" data="https://www.movimento5stelle.eu/wp-content/uploads/2025/10/Governo-Meloni_3-anni-di-tasse.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Incorporamento di &lt;strong&gt;Governo Meloni_3 anni di tasse&lt;/strong&gt;."></object><a id="wp-block-file--media-5a3a1131-12bc-4a0a-88d0-041573ad37e6" href="https://www.movimento5stelle.eu/wp-content/uploads/2025/10/Governo-Meloni_3-anni-di-tasse.pdf"><strong>Governo Meloni_3 anni di tasse</strong></a><a href="https://www.movimento5stelle.eu/wp-content/uploads/2025/10/Governo-Meloni_3-anni-di-tasse.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-5a3a1131-12bc-4a0a-88d0-041573ad37e6">Download</a></div>
+
+
+
+<div class="wp-block-file"><a id="wp-block-file--media-1d014a8e-f400-4d47-b00e-86f1371bc170" href="https://www.movimento5stelle.eu/wp-content/uploads/2025/10/Libro_3-anni-di-tasse_STAMPA.pdf">Libro_3 anni di tasse_x_STAMPA</a><a href="https://www.movimento5stelle.eu/wp-content/uploads/2025/10/Libro_3-anni-di-tasse_STAMPA.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-1d014a8e-f400-4d47-b00e-86f1371bc170">Download</a></div>
 ]]></content:encoded>
 					
 		
