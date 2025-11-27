@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<generator>https://wordpress.org/?v=6.8.3</generator>
 
 <image>
 	<url>https://www.movimento5stelle.eu/wp-content/uploads/2019/11/cropped-Logo-M5S-2050-32x32.png</url>
@@ -94,7 +94,7 @@
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmovimento5stelle%2Fposts%2Fpfbid02gwUKKeFbLsw4QY7diKyhbimpbGB8zvvfUBgmazE6eRVCnuMjEraUzQfxTGRjS4Yzl&#038;show_text=true&#038;width=500" width="500" height="771" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
@@ -289,7 +289,7 @@
 
 
 <div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
-<h3 class="wp-block-heading has-text-align-center"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4c5.png" alt="📅" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Come partecipare</strong></h3>
+<h3 class="wp-block-heading has-text-align-center"><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f4c5.png" alt="📅" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Come partecipare</strong></h3>
 
 
 
@@ -323,7 +323,7 @@
 
 
 
-<p><strong>Partecipa e supporta la campagna </strong>#AlberiPerIlFuturo <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f49a.png" alt="💚" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>Partecipa e supporta la campagna </strong>#AlberiPerIlFuturo <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f49a.png" alt="💚" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
@@ -592,7 +592,7 @@
 
 
 
-<p><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f3e1.png" alt="🏡" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong><strong> Un asilo moderno, sostenibile e immerso nel verde</strong></p>
+<p><strong><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f3e1.png" alt="🏡" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong><strong> Un asilo moderno, sostenibile e immerso nel verde</strong></p>
 
 
 
@@ -648,7 +648,7 @@
 
 
 
-<p><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f331.png" alt="🌱" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong><strong> Un luogo pensato per crescere, imparare e vivere insieme</strong></p>
+<p><strong><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f331.png" alt="🌱" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong><strong> Un luogo pensato per crescere, imparare e vivere insieme</strong></p>
 
 
 
@@ -660,7 +660,7 @@
 
 
 
-<p><strong><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f476.png" alt="👶" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong><strong> Un investimento che genera valore e futuro</strong></p>
+<p><strong><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f476.png" alt="👶" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong><strong> Un investimento che genera valore e futuro</strong></p>
 
 
 
@@ -811,19 +811,11 @@
 
 
 
-<p>Dieci anni di impegno, partecipazione e amore per l’ambiente: <em>Alberi per il Futuro</em> torna anche quest’anno in tutta Italia!<br>Dal 2015, grazie all’impegno del Movimento 5 Stelle, sono state piantate decine di migliaia di alberi, coinvolgendo cittadini, amministrazioni, associazioni e scuole.<br>Un gesto concreto per contrastare i cambiamenti climatici, migliorare la qualità dell’aria e costruire città più verdi e sostenibili. <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f331.png" alt="🌱" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Dieci anni di impegno, partecipazione e amore per l’ambiente: <em>Alberi per il Futuro</em> torna anche quest’anno in tutta Italia!<br>Dal 2015, grazie all’impegno del Movimento 5 Stelle, sono state piantate decine di migliaia di alberi, coinvolgendo cittadini, amministrazioni, associazioni e scuole.<br>Un gesto concreto per contrastare i cambiamenti climatici, migliorare la qualità dell’aria e costruire città più verdi e sostenibili. <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f331.png" alt="🌱" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
-<p>In questa <strong>decima edizione</strong>, tante città italiane ospiteranno eventi dedicati alla piantumazione e alla tutela del verde urbano. Eccone alcune <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f447.png" alt="👇" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cd.png" alt="📍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>TREVISO – Domenica 16 novembre 2025, dalle 9.00 alle 12.00</strong><br>Ci vediamo al <strong>Parco lungo la ciclabile Treviso–Ostiglia</strong>, all’altezza dell’EcoCentro Contarina in <em>Viale della Serenissima (San Giuseppe)</em> <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://maps.app.goo.gl/HhQmj4LKs1MdC88Y6"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cd.png" alt="📍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Maps</a><br>Pianteremo insieme <strong>73 nuovi alberi</strong> per una Treviso sempre più verde! <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f333.png" alt="🌳" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br>L’evento è aperto a tutta la cittadinanza: troverai gli alberi già pronti sul posto — porta solo <strong>badile, guanti, stivali e un annaffiatoio</strong>.<br>Un’occasione per fare squadra, respirare aria buona e lasciare un segno positivo nel territorio.<br><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Scopri di più: <a href="https://www.facebook.com/share/17CnVeEmPR/">Evento Facebook</a></p>
+<p>In questa <strong>decima edizione</strong>, tante città italiane ospiteranno eventi dedicati alla piantumazione e alla tutela del verde urbano. Eccone alcune <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f447.png" alt="👇" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
@@ -831,7 +823,7 @@
 
 
 
-<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cd.png" alt="📍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>ALESSANDRIA – Giovedì 20 novembre 2025, ore 10.00, Via San Giovanni Bosco 55</strong><br>Il gruppo consiliare del Movimento 5 Stelle di Alessandria, la consigliera <strong>Sanny Santoro</strong>&nbsp;e il capogruppo&nbsp;<strong>Francesco Gentiluomo</strong>, ha presentato una mozione per la creazione del <strong>“Bosco della Memoria”</strong>, un luogo simbolico dove cittadine e cittadini potranno <strong>piantare un albero per celebrare una nascita o ricordare una persona cara</strong>.<br>Il progetto rappresenta un bellissimo esempio di <strong>collaborazione tra comunità e amministrazione</strong>: i cittadini si occuperanno della piantumazione e della cura degli alberi, mentre il Comune metterà a disposizione l’area e garantirà l’irrigazione.<br>Durante l’evento, sarà proposta anche la piantumazione di <strong>tre alberi in memoria dei Vigili del Fuoco deceduti nella tragedia di Quargnento</strong>. <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f332.png" alt="🌲" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f4cd.png" alt="📍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>TREVISO – Domenica 16 novembre 2025, dalle 9.00 alle 12.00</strong><br>Ci vediamo al <strong>Parco lungo la ciclabile Treviso–Ostiglia</strong>, all’altezza dell’EcoCentro Contarina in <em>Viale della Serenissima (San Giuseppe)</em> <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://maps.app.goo.gl/HhQmj4LKs1MdC88Y6"><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f4cd.png" alt="📍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Maps</a><br>Pianteremo insieme <strong>73 nuovi alberi</strong> per una Treviso sempre più verde! <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f333.png" alt="🌳" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br>L’evento è aperto a tutta la cittadinanza: troverai gli alberi già pronti sul posto — porta solo <strong>badile, guanti, stivali e un annaffiatoio</strong>.<br>Un’occasione per fare squadra, respirare aria buona e lasciare un segno positivo nel territorio.<br><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Scopri di più: <a href="https://www.facebook.com/share/17CnVeEmPR/">Evento Facebook</a></p>
 
 
 
@@ -839,12 +831,20 @@
 
 
 
-<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4cd.png" alt="📍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>PAVIA</strong><br>Il Comune di Pavia con il nostro assessore all’ambiente Lorenzo Goppa, in collaborazione con ASM Pavia e con il supporto dell’agronomo Giacomo Agnelli, ha avviato un importante programma di <a href="https://www.instagram.com/p/DQ82JcHjCTF/?igsh=MWJ1aGlpbThsNHh2cA=="><strong>verifiche tecniche su 682 alberi cittadini</strong></a> nelle aree più frequentate (Viale Lungoticino Sforza, Viale Cesare Battisti, Viale Gorizia, Viale Resistenza e Via Nazario Sauro).<br>L’obiettivo è duplice: garantire la <strong>sicurezza dei cittadini</strong> e la <strong>tutela del patrimonio arboreo</strong>.<br>Ogni albero eventualmente rimosso sarà sostituito da nuove piantumazioni, in linea con i piani di <a href="https://www.movimento5stelle.eu/a-pavia-350-nuovi-alberiperilfuturo-della-citta/">riforestazione urbana già avviati</a>. <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f33f.png" alt="🌿" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br></p>
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f4cd.png" alt="📍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>ALESSANDRIA – Giovedì 20 novembre 2025, ore 10.00, Via San Giovanni Bosco 55</strong><br>Il gruppo consiliare del Movimento 5 Stelle di Alessandria, la consigliera <strong>Sanny Santoro</strong>&nbsp;e il capogruppo&nbsp;<strong>Francesco Gentiluomo</strong>, ha presentato una mozione per la creazione del <strong>“Bosco della Memoria”</strong>, un luogo simbolico dove cittadine e cittadini potranno <strong>piantare un albero per celebrare una nascita o ricordare una persona cara</strong>.<br>Il progetto rappresenta un bellissimo esempio di <strong>collaborazione tra comunità e amministrazione</strong>: i cittadini si occuperanno della piantumazione e della cura degli alberi, mentre il Comune metterà a disposizione l’area e garantirà l’irrigazione.<br>Durante l’evento, sarà proposta anche la piantumazione di <strong>tre alberi in memoria dei Vigili del Fuoco deceduti nella tragedia di Quargnento</strong>. <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f332.png" alt="🌲" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f4cd.png" alt="📍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>PAVIA</strong><br>Il Comune di Pavia con il nostro assessore all’ambiente Lorenzo Goppa, in collaborazione con ASM Pavia e con il supporto dell’agronomo Giacomo Agnelli, ha avviato un importante programma di <a href="https://www.instagram.com/p/DQ82JcHjCTF/?igsh=MWJ1aGlpbThsNHh2cA=="><strong>verifiche tecniche su 682 alberi cittadini</strong></a> nelle aree più frequentate (Viale Lungoticino Sforza, Viale Cesare Battisti, Viale Gorizia, Viale Resistenza e Via Nazario Sauro).<br>L’obiettivo è duplice: garantire la <strong>sicurezza dei cittadini</strong> e la <strong>tutela del patrimonio arboreo</strong>.<br>Ogni albero eventualmente rimosso sarà sostituito da nuove piantumazioni, in linea con i piani di <a href="https://www.movimento5stelle.eu/a-pavia-350-nuovi-alberiperilfuturo-della-citta/">riforestazione urbana già avviati</a>. <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f33f.png" alt="🌿" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br></p>
 
 
 
 <div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
-<h3 class="wp-block-heading has-text-align-center"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f4c5.png" alt="📅" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Come partecipare</strong></h3>
+<h3 class="wp-block-heading has-text-align-center"><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f4c5.png" alt="📅" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Come partecipare</strong></h3>
 
 
 
@@ -878,7 +878,7 @@
 
 
 
-<p><strong>Partecipa e supporta la campagna </strong>#AlberiPerIlFuturo <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f49a.png" alt="💚" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>Partecipa e supporta la campagna </strong>#AlberiPerIlFuturo <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f49a.png" alt="💚" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
 
 
