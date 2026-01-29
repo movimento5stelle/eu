@@ -12,7 +12,7 @@
 	<atom:link href="https://www.movimento5stelle.eu/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.movimento5stelle.eu</link>
 	<description></description>
-	<lastBuildDate>Thu, 29 Jan 2026 11:39:51 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 29 Jan 2026 17:09:06 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -131,7 +131,9 @@
 
 
 
-<p></p>
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Scuola di Formazione - proposte e strategie per rifondare l&#039;ONU | 29/01/2026" width="800" height="450" src="https://www.youtube.com/embed/_iezOg9L_Fw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
 ]]></content:encoded>
 					
 		
