@@ -12,7 +12,7 @@
 	<atom:link href="https://www.movimento5stelle.eu/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.movimento5stelle.eu</link>
 	<description></description>
-	<lastBuildDate>Fri, 13 Feb 2026 12:17:54 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Feb 2026 14:57:26 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -515,15 +515,15 @@
 
 
 
-<p>*   <strong>Prof. Franco Coppi</strong>, avvocato e giurista</p>
+<p>*&nbsp;&nbsp; <strong>Prof. Franco Coppi</strong>, avvocato e giurista</p>
 
 
 
-<p>*   <strong>Prof.ssa Ines Ciolli</strong>, costituzionalista</p>
+<p>*&nbsp;&nbsp; <strong>Prof.ssa Ines Ciolli</strong>, costituzionalista</p>
 
 
 
-<p>*   <strong>Marco Travaglio</strong>, direttore de Il Fatto Quotidiano</p>
+<p>*&nbsp;&nbsp; <strong>Marco Travaglio</strong>, direttore de Il Fatto Quotidiano</p>
 
 
 
@@ -540,6 +540,10 @@
 
 
 <p>Vi aspettiamo sabato 14 febbraio alle 15.30 in Campidoglio!</p>
+
+
+
+<p class="has-text-align-center"><strong><a href="https://www.eventbrite.it/e/biglietti-una-partita-decisiva-per-democrazia-e-diritti-1982767123842" data-type="link" data-id="https://www.eventbrite.it/e/biglietti-una-partita-decisiva-per-democrazia-e-diritti-1982767123842" target="_blank" rel="noreferrer noopener">PRENOTA IL TUO POSTO</a></strong></p>
 ]]></content:encoded>
 					
 		
