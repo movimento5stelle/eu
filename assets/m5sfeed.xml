@@ -12,7 +12,7 @@
 	<atom:link href="https://www.movimento5stelle.eu/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.movimento5stelle.eu</link>
 	<description></description>
-	<lastBuildDate>Sat, 07 Mar 2026 23:15:26 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 08 Mar 2026 14:07:11 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -41,7 +41,7 @@
 
 					<description><![CDATA[Votazione Comitato di Garanzia e Collegio dei ProbiviriVenerdì 13 marzo 2026 dalle 8 alle 22.00 Care iscritte, cari iscritti, la settimana scorsa abbiamo eletto i vice-presidenti e i coordinatori dei comitati previsti come necessari dallo Statuto. Nel corso dell’ultimo Consiglio Nazionale sono state deliberate le rose dei nominativi tra cui cui eleggere i componenti del [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="768" src="https://www.movimento5stelle.eu/wp-content/uploads/2026/03/blog-votazione-probiviri-coll-garanzia-1024x768.jpg" alt="" class="wp-image-40519" srcset="https://www.movimento5stelle.eu/wp-content/uploads/2026/03/blog-votazione-probiviri-coll-garanzia-1024x768.jpg 1024w, https://www.movimento5stelle.eu/wp-content/uploads/2026/03/blog-votazione-probiviri-coll-garanzia-300x225.jpg 300w, https://www.movimento5stelle.eu/wp-content/uploads/2026/03/blog-votazione-probiviri-coll-garanzia-768x576.jpg 768w, https://www.movimento5stelle.eu/wp-content/uploads/2026/03/blog-votazione-probiviri-coll-garanzia-1536x1152.jpg 1536w, https://www.movimento5stelle.eu/wp-content/uploads/2026/03/blog-votazione-probiviri-coll-garanzia-1200x900.jpg 1200w, https://www.movimento5stelle.eu/wp-content/uploads/2026/03/blog-votazione-probiviri-coll-garanzia.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="768" src="https://www.movimento5stelle.eu/wp-content/uploads/2026/03/Votazione-Comitato-di-Garanzia-e-Collegio-dei-Probiviri-1024x768.jpg" alt="" class="wp-image-40528" srcset="https://www.movimento5stelle.eu/wp-content/uploads/2026/03/Votazione-Comitato-di-Garanzia-e-Collegio-dei-Probiviri-1024x768.jpg 1024w, https://www.movimento5stelle.eu/wp-content/uploads/2026/03/Votazione-Comitato-di-Garanzia-e-Collegio-dei-Probiviri-300x225.jpg 300w, https://www.movimento5stelle.eu/wp-content/uploads/2026/03/Votazione-Comitato-di-Garanzia-e-Collegio-dei-Probiviri-768x576.jpg 768w, https://www.movimento5stelle.eu/wp-content/uploads/2026/03/Votazione-Comitato-di-Garanzia-e-Collegio-dei-Probiviri-1536x1152.jpg 1536w, https://www.movimento5stelle.eu/wp-content/uploads/2026/03/Votazione-Comitato-di-Garanzia-e-Collegio-dei-Probiviri-1200x900.jpg 1200w, https://www.movimento5stelle.eu/wp-content/uploads/2026/03/Votazione-Comitato-di-Garanzia-e-Collegio-dei-Probiviri.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -80,7 +80,7 @@
 
 
 <ul class="wp-block-list">
-<li>Una rosa di 10 (dieci) nominativi tra i quali potrete scegliere i 5 (cinque) componenti del Collegio dei Probiviri:<br><br>Valentina BARZOTTI<br>Enrco CAPPELLETTI<br>Roberto CATALDI<br>Valentina D’ORSO<br>Roberto GRAVINA<br>Valentina PALMISANO<br>Daniele PESCO<br>Elisa PIRRO<br>Giulia SARTI<br>Filippo SCERRA.</li>
+<li>Una rosa di 10 (dieci) nominativi tra i quali potrete scegliere i 5 (cinque) componenti del Collegio dei Probiviri:<br><br>Valentina BARZOTTI<br>Enrico CAPPELLETTI<br>Roberto CATALDI<br>Valentina D’ORSO<br>Roberto GRAVINA<br>Valentina PALMISANO<br>Daniele PESCO<br>Elisa PIRRO<br>Giulia SARTI<br>Filippo SCERRA.</li>
 </ul>
 
 
@@ -89,7 +89,7 @@
 
 
 
-<p><strong>Ora spetta a voi sceglierli iscritte!</strong></p>
+<p><strong>Ora spetta a voi sceglierli!</strong></p>
 
 
 
@@ -135,9 +135,9 @@
 
 
 
-<ul class="wp-block-list">
+<ol start="2" class="wp-block-list">
 <li><strong>Elezione dei componenti del Collegio dei Probiviri.</strong></li>
-</ul>
+</ol>
 
 
 
